@@ -8,7 +8,8 @@
 
 ## Запуск
 
-cargo runПример вывода:
+cargo run
+Пример вывода:
 
 ```
 $ cargo run
