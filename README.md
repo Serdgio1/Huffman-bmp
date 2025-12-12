@@ -10,10 +10,10 @@
 
 cargo runПример вывода:
 
+```
 $ cargo run
     Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.02s
      Running `target/debug/code_HW`
-```
 123 (0x7B):
 00101000
  31 (0x1F):
